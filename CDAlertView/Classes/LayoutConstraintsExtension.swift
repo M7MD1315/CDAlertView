@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 internal extension UIView {
     func cd_alignToTop(of view: UIView, margin: CGFloat, multiplier: CGFloat) {

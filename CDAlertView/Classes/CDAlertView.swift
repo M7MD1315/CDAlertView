@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 fileprivate protocol CDAlertViewActionDelegate: class {
     func didTap(action: CDAlertViewAction)
